@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://instagram.com/bly_is_god" target="_blank"><img src="https://img.shields.io/badge/bly__is__god-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blykim&show_icons=true&theme=monokai)

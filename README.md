@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <a href="https://instagram.com/bly_is_god" target="_blank"><img src="https://img.shields.io/badge/bly__is__god-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blykim&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blykim&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blykim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

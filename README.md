@@ -136,3 +136,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/BLYKIM/BLYKIM/output/snake.svg" alt="Snake animation" />
+
+###
